@@ -1,4 +1,6 @@
 // layout.tsx is a server component by default
+export const dynamic = "force-dynamic";
+
 import { Nunito } from "next/font/google";
 
 import "./globals.css";
