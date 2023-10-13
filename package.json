@@ -34,7 +34,7 @@
     "react-select": "^5.7.4",
     "react-spinners": "^0.13.8",
     "typescript": "5.2.2",
-    "world-countries": "^4.1.1",
+    "world-countries": "^4.0.0",
     "zustand": "^4.4.1"
   },
   "devDependencies": {
